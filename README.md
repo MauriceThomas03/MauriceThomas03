@@ -1,10 +1,10 @@
 <h1>Hi, I'm Maurice! <br/>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">Nursing Student</a>, 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">Future Healthcare Professional</a>, 
-<a href="#">STEM & Health Sciences Enthusiast</a>
+<a href="https://github.com/MauriceThomas03">Nursing Student</a>, 
+<a href="https://www.linkedin.com/in/maurice-thomas-0a3137341/">Future Healthcare Professional</a>, 
+<a href="#">Computer Science Majort</a>
 </h1>
 
-<h2>🩺 Healthcare, Academic & Technical Projects:</h2>
+<h2> Academic & Technical Projects:</h2>
 
 - <b>Nursing & Health Science Coursework</b>
   - Patient Safety & Medication Administration Case Studies
