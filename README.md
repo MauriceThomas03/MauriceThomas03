@@ -6,7 +6,7 @@
 
 <h2> Academic & Technical Projects:</h2>
 
-- <b>Nursing & Health Science Coursework</b>
+- <b>Task Management System Project.</b>
   - Patient Safety & Medication Administration Case Studies
   - Comprehensive Health Assessment Study Guides
   - Pathophysiology Concept Reviews & Practice Exams
@@ -44,8 +44,8 @@
 <br/><br/>
 
 [github]: https://github.com/YOUR_GITHUB_USERNAME
-[linkedin]: https://www.linkedin.com/in/YOUR_LINKEDIN
-[email]: mailto:YOUREMAIL@example.com
+[linkedin]:https://www.linkedin.com/in/maurice-thomas-0a3137341/
+[email]: mailto:mauricethomasc2022@gmail.com
 
 <!--
 **YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME** is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
