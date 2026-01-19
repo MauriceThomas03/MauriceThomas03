@@ -1,6 +1,6 @@
 <h1>Hi, I'm Maurice! <br/>
-<a href="https://github.com/MauriceThomas03"></a>
-<a href="https://www.linkedin.com/in/maurice-thomas-0a3137341/">Future Devloper </a>, 
+<a href="https://github.com/MauriceThomas03">Programmer</a>
+<a href="https://www.linkedin.com/in/maurice-thomas-0a3137341/">Devloper </a>, 
 <a href="#">Computer Science Major</a>
 </h1>
 
