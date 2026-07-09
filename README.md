@@ -1,9 +1,11 @@
 <h1>Hi, I'm Maurice! <br/>
 🎓 B.S. Computer Science (Data Analytics concentration) at Voorhees University — anticipated May 2027, GPA 3.7, Honors College
-🔐 Focused on cybersecurity fundamentals, security operations, and network security — backed by IBM training and coursework at Augusta State University
+🔐 Focused on cybersecurity fundamentals, security operations, and network security 
+  — backed by IBM training and coursework at Augusta State University
 🛠️ Comfortable in Python, JavaScript, and HTML, with an interest in security tooling and digital forensics
 🌱 Currently building small, hands-on security projects to go deeper than coursework alone
-🏃 Track & Field Captain at Voorhees University — I bring the same discipline from athletics into how I approach learning
+🏃 Track & Field Captain at Voorhees University
+  — I bring the same discipline from athletics into how I approach learning
 
   Featured Project
 
