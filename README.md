@@ -4,11 +4,7 @@
 🛠️ Comfortable in Python, JavaScript, and HTML, with an interest in security tooling and digital forensics
 🌱 Currently building small, hands-on security projects to go deeper than coursework alone
 🏃 Track & Field Captain at Voorhees University — I bring the same discipline from athletics into how I approach learning
-Certifications
-https://img.shields.io/badge/IBM-Security%20Operations%20Center%20(SOC)-052FAD?style=flat-square&logo=ibm&logoColor=white
-https://img.shields.io/badge/IBM-Cybersecurity%20Fundamentals-052FAD?style=flat-square&logo=ibm&logoColor=white
-https://img.shields.io/badge/IBM-Enterprise%20Security-052FAD?style=flat-square&logo=ibm&logoColor=white
-https://img.shields.io/badge/IBM-Getting%20Started%20with%20Cybersecurity-052FAD?style=flat-square&logo=ibm&logoColor=white
+
   Featured Project
 
 🔍 StegoCrypt — A Python command-line tool for hiding and revealing secret messages inside images using LSB (least-significant-bit) steganography, with optional password-based obfuscation. Includes a full automated test suite and a README covering how the technique works and where it fits in real-world data-exfiltration and digital-forensics scenarios.
