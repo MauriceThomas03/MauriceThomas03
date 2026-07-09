@@ -1,39 +1,22 @@
 <h1>Hi, I'm Maurice! <br/>
-<a href="https://github.com/MauriceThomas03">Programmer</a>,
-<a href="https://www.linkedin.com/in/maurice-thomas-0a3137341/">Devloper </a>, 
-<a href="#">Computer Science Major</a>
-</h1>
+🎓 B.S. Computer Science (Data Analytics concentration) at Voorhees University — anticipated May 2027, GPA 3.7, Honors College
+🔐 Focused on cybersecurity fundamentals, security operations, and network security — backed by IBM training and coursework at Augusta State University
+🛠️ Comfortable in Python, JavaScript, and HTML, with an interest in security tooling and digital forensics
+🌱 Currently building small, hands-on security projects to go deeper than coursework alone
+🏃 Track & Field Captain at Voorhees University — I bring the same discipline from athletics into how I approach learning
+Certifications
+https://img.shields.io/badge/IBM-Security%20Operations%20Center%20(SOC)-052FAD?style=flat-square&logo=ibm&logoColor=white
+https://img.shields.io/badge/IBM-Cybersecurity%20Fundamentals-052FAD?style=flat-square&logo=ibm&logoColor=white
+https://img.shields.io/badge/IBM-Enterprise%20Security-052FAD?style=flat-square&logo=ibm&logoColor=white
+https://img.shields.io/badge/IBM-Getting%20Started%20with%20Cybersecurity-052FAD?style=flat-square&logo=ibm&logoColor=white
+  Featured Project
 
-<h2> Academic & Technical Projects:</h2>
+🔍 StegoCrypt — A Python command-line tool for hiding and revealing secret messages inside images using LSB (least-significant-bit) steganography, with optional password-based obfuscation. Includes a full automated test suite and a README covering how the technique works and where it fits in real-world data-exfiltration and digital-forensics scenarios.
+Skills
 
-- <b>Task Management System Project.</b>
-  - Patient Safety & Medication Administration Case Studies
-  - Comprehensive Health Assessment Study Guides
-  - Pathophysiology Concept Reviews & Practice Exams
-  - Evidence-Based Practice & Clinical Reflections
-
-- <b>Data, Math & Applied Science Projects</b>
-  - Real-Life Applications of Exponential & Logarithmic Functions
-  - Academic Presentations (PowerPoint & Research-Based)
-  - GPA & Academic Performance Analysis Tools
-
-- <b>Technology in Healthcare</b>
-  - AI in Society & Healthcare Impact Research
-  - Ethical Use of Technology in Clinical Settings
-  - Digital Documentation & Clinical Workflow Optimization Concepts
-
-- <b>Programming & Technical Skills (Academic / Learning)</b>
-  - Python for problem-solving and academic demonstrations
-  - Data organization and logic-based exercises
-  - Healthcare-focused technology exploration
-
-<h2>📚 Academic Interests</h2>
-
-- Nursing fundamentals & patient-centered care  
-- Health assessment across the lifespan  
-- Pathophysiology & clinical reasoning  
-- Medical ethics, safety, and quality improvement  
-- Technology, AI, and innovation in healthcare  
+Security: Security operations fundamentals · Network troubleshooting · Ethical hacking basics · Enterprise security concepts
+Languages: Python · JavaScript · HTML
+Other: Team leadership · Process improvement · Attention to detail
 
 <h2> 🤳 Connect with me:</h2>
 
