@@ -1,20 +1,37 @@
-<h1>Hi, I'm Maurice! <br/>
-🎓 B.S. Computer Science (Data Analytics concentration) at Voorhees University — anticipated May 2027, GPA 3.7, Honors College
-🔐 Focused on cybersecurity fundamentals, security operations, and network security 
-  — backed by IBM training and coursework at Augusta State University
-🛠️ Comfortable in Python, JavaScript, and HTML, with an interest in security tooling and digital forensics
-🌱 Currently building small, hands-on security projects to go deeper than coursework alone
-🏃 Track & Field Captain at Voorhees University
-  — I bring the same discipline from athletics into how I approach learning
+# Hi, I'm Maurice Thomas
 
-  Featured Project
+Computer Science student focused on cybersecurity, data, and engineering.
 
-🔍 StegoCrypt — A Python command-line tool for hiding and revealing secret messages inside images using LSB (least-significant-bit) steganography, with optional password-based obfuscation. Includes a full automated test suite and a README covering how the technique works and where it fits in real-world data-exfiltration and digital-forensics scenarios.
-Skills
+## About Me
 
-Security: Security operations fundamentals · Network troubleshooting · Ethical hacking basics · Enterprise security concepts
-Languages: Python · JavaScript · HTML
-Other: Team leadership · Process improvement · Attention to detail
+- B.S. Computer Science (Data Analytics concentration), Voorhees University — anticipated May 2027, GPA 3.7, Honors College
+- Focused on cybersecurity fundamentals, security operations, and network security
+- Comfortable in Python, JavaScript, and HTML
+- Building hands-on security projects alongside coursework
+- Track & Field Captain, Voorhees University
+
+## Certifications
+
+- IBM Security Operations Center (SOC)
+- IBM Cybersecurity Fundamentals
+- IBM Enterprise Security
+- IBM Getting Started with Cybersecurity
+
+## Featured Project
+
+**[StegoCrypt](https://github.com/MauriceThomas03/stegocrypt)** — A Python command-line tool that hides and reveals secret messages inside images using LSB steganography, with optional password protection. Includes a full automated test suite.
+
+Built with: Python, Pillow, CLI, unittest
+
+## Skills
+
+**Security:** security operations fundamentals, network troubleshooting, ethical hacking basics, enterprise security concepts
+**Languages:** Python, JavaScript, HTML
+**Other:** team leadership, process improvement, attention to detail
+
+## Contact
+
+mauricethomasc2022@gmail.com
 
 <h2> 🤳 Connect with me:</h2>
 
